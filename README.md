@@ -1,6 +1,6 @@
 # tts-buy-ckan-multitenant
 
-The General Services Administration (GSA) Federal Acquisition Service (FAS) Technology Transformation Services (TTS) is seeking providers of CKAN development services in support of the data.gov program management office.
+The General Services Administration (GSA) Federal Acquisition Service (FAS) Technology Transformation Services (TTS) is seeking providers of [CKAN](https://ckan.org/) development services in support of the data.gov program management office.
 
 As part of this process, TTS is seeking information from vendors in order to determine which companies have the skills to support these efforts. Specifically, we are looking for companies who have built a culture around the delivery of quality digital products. The necessary capabilities needed in support of this requirement are centered on the following questions.
 
