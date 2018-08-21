@@ -379,7 +379,7 @@ and conformance with the Task Order requirements by the Government.
 Inspection may include validation of information or software through the
 use of automated tools and/or testing of the deliverables, as specified
 in the [<span class="underline">Quality Assurance Surveillance Plan
-(QASP)</span>](https://docs.google.com/document/d/10GkgqE-gipcglojilALg4OYQh7Awz8Fb2NXnyMnrTZg/edit).
+(QASP)</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/QASP.md).
 
 The Government requires a period not to exceed 30 days after receipt of
 final deliverable items for inspection and acceptance or rejection.
@@ -390,7 +390,7 @@ Data.gov develops, tests, approves or rejects, and releases approved new
 code to production in an incremental manner. The GSA TTS Product Owner,
 COR and the Contractor will agree on a protocol for testing in
 accordance with the
-[<span class="underline">QASP</span>](https://docs.google.com/document/d/10GkgqE-gipcglojilALg4OYQh7Awz8Fb2NXnyMnrTZg/edit).
+[<span class="underline">QASP</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/QASP.md).
 All of the Government’s comments to deliverables must either be
 incorporated in the succeeding version or the Contractor shall
 demonstrate to the Government’s satisfaction why such comments should
@@ -729,7 +729,7 @@ to reject invoices for travel in excess of the established NTE amount.
 ## 4.3 Quality Assurance
 
 The Government will use the attached draft
-[<span class="underline">QASP</span>](https://docs.google.com/document/d/10GkgqE-gipcglojilALg4OYQh7Awz8Fb2NXnyMnrTZg/edit)
+[<span class="underline">QASP</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/QASP.md)
 to monitor the Contractor’s performance. The scope and nature of this
 testing included in the QASP is intended to be sufficiently
 comprehensive to ensure the completeness, quality and adequacy of all
@@ -1069,7 +1069,7 @@ Support</span>](https://docs.google.com/forms/d/1gr9gHzRJZ2LH6UrRzT4g40npWRi-I3Z
 Quoters shall provide their detailed price quote in accordance with 7.2
 below, via the [<span class="underline">RFQ Pricing Form - Data.gov
 Multi-Tenant CKAN Development
-Support</span>](https://docs.google.com/spreadsheets/d/1AcOceyGtzoRHgFQaWkmjapcyEMzly1BV7qlL1455ESE/edit#gid=443638505)
+Support</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/RFQ%20Pricing%20Form.xlsx)
 found at the [<span class="underline">GitHub
 page</span>](https://github.com/18F/tts-buy-ckan-multitenant). Quoter
 shall download the Pricing Form, fill in the information required, and
@@ -1106,7 +1106,7 @@ include the following:
     The breakdown should be consistent with the information submitted
     on the [<span class="underline">RFQ Pricing Form - Data.gov
     Multi-Tenant CKAN Development
-    Support</span>](https://docs.google.com/spreadsheets/d/1AcOceyGtzoRHgFQaWkmjapcyEMzly1BV7qlL1455ESE/edit#gid=443638505).
+    Support</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/RFQ%20Pricing%20Form.xlsx).
 
 <!-- end list -->
 
@@ -1205,7 +1205,7 @@ At a minimum, the quote shall include:
 Quoters shall provide a detailed price quote that clearly identifies the
 proposed GSA labor mix/categories and level of effort/associated rates,
 via the [<span class="underline">RFQ Pricing
-Form</span>](https://docs.google.com/spreadsheets/d/1AcOceyGtzoRHgFQaWkmjapcyEMzly1BV7qlL1455ESE/edit#gid=443638505)
+Form</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/RFQ%20Pricing%20Form.xlsx)
 as described in [<span class="underline">Section 7.1 Quote
 Instructions</span>](#quote-instructions) of this solicitation. All unit
 prices utilized in developing the quote shall be at or below the
@@ -1317,7 +1317,7 @@ vendor presentations during this interview.
 Phase 3: Pricing Submittal - Quoters’ Prices, as provided in the
 [<span class="underline">RFQ Pricing Form - Data.gov Multi-Tenant CKAN
 Development
-Support</span>](https://docs.google.com/spreadsheets/d/1AcOceyGtzoRHgFQaWkmjapcyEMzly1BV7qlL1455ESE/edit#gid=443638505),
+Support</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/RFQ%20Pricing%20Form.xlsx),
 will be reviewed separately from the technical evaluation and will only
 include Quoters who participate in the oral interview.
 
