@@ -221,13 +221,13 @@ Solicitation Attachments
     Surveillance Plan
     (QASP)</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/QASP.md)
 
-  - > Attachment 2 - [<span class="underline">RFQ Response Form - GSA
-    > TTS Data.gov Multi-Tenant CKAN Development
-    > Support</span>](https://docs.google.com/forms/d/1gr9gHzRJZ2LH6UrRzT4g40npWRi-I3ZYsLi5fv_h5RE/edit)
+  - Attachment 2 - [<span class="underline">RFQ Response Form - GSA
+    TTS Data.gov Multi-Tenant CKAN Development
+    Support</span>](https://docs.google.com/forms/d/1gr9gHzRJZ2LH6UrRzT4g40npWRi-I3ZYsLi5fv_h5RE/edit)
 
-  - > Attachment 3 - [<span class="underline">RFQ Pricing Form -
-    > Data.gov Multi-Tenant CKAN Development
-    > Support</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/RFQ%20Pricing%20Form.xlsx)
+  - Attachment 3 - [<span class="underline">RFQ Pricing Form -
+    Data.gov Multi-Tenant CKAN Development
+    Support</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/RFQ%20Pricing%20Form.xlsx)
 
 # 1.0 Background
 
@@ -551,13 +551,13 @@ upon request after award.
 This acquisition will be administered by the following individuals, who
 will also monitor the Contractor’s performance:
 
-1.  > GSA Contracting Officer (CO): Jennifer Calik,
-    > [<span class="underline">jennifer.calik@gsa.gov</span>](mailto:jennifer.calik@gsa.gov)
+1.  GSA Contracting Officer (CO): Jennifer Calik,
+    [<span class="underline">jennifer.calik@gsa.gov</span>](mailto:jennifer.calik@gsa.gov)
 
-2.  > GSA Contracting Officer’s Representative (COR): Will be provided
-    > at time of award
+2.  GSA Contracting Officer’s Representative (COR): Will be provided
+    at time of award
 
-3.  > GSA TTS Product Owner: Will be provided at time of award
+3.  GSA TTS Product Owner: Will be provided at time of award
 
 ## 3.7 Contractor Personnel
 
@@ -576,35 +576,35 @@ Data.gov’s goals and objectives.
 
 Areas of expertise required:
 
-  - > CKAN version 2.6 or later;
+  - CKAN version 2.6 or later;
 
-  - > Implementation of CKAN extensions (e.g. ckanext-harvest and CKAN
-    > DataStore);
+  - Implementation of CKAN extensions (e.g. ckanext-harvest and CKAN
+    DataStore);
 
-  - > Development of custom CKAN extensions;
+  - Development of custom CKAN extensions;
 
-  - > git-backed version control; and
+  - git-backed version control; and
 
-  - > PostgreSQL
+  - PostgreSQL
 
 Additionally, a team assigned to perform this work is expected to have
 experience with:
 
-  - > Agile development practices;
+  - Agile development practices;
 
-  - > Open-source development and version control;
+  - Open-source development and version control;
 
-  - > Writing and using APIs;
+  - Writing and using APIs;
 
-  - > Test-driven development;
+  - Test-driven development;
 
-  - > Information Architecture, including system design;
+  - Information Architecture, including system design;
 
-  - > DevOps practices, including monitoring;
+  - DevOps practices, including monitoring;
 
-  - > Cloud based hosting environments and deployments; and
+  - Cloud based hosting environments and deployments; and
 
-  - > Building and testing public-facing sites and tools.
+  - Building and testing public-facing sites and tools.
 
 The Contractor shall also provide people who are comfortable working
 with a geographically distributed team.
@@ -621,13 +621,13 @@ and is at the sole discretion of the Contractor.
 At a minimum, the Contractor shall identify one member of the Key
 Personnel that:
 
-  - > Has a full understanding of the technical approach discussed in
-    > the Oral Interviews and delivered by the Contractor after award;
+  - Has a full understanding of the technical approach discussed in
+    the Oral Interviews and delivered by the Contractor after award;
 
-  - > Will be a direct liaison to the CO, COR, and the GSA TTS Product
-    > Owner. In this capacity, this individual shall be responsible for
-    > the supervision of the Contractor’s personnel, technical
-    > assistance, and interface.
+  - Will be a direct liaison to the CO, COR, and the GSA TTS Product
+    Owner. In this capacity, this individual shall be responsible for
+    the supervision of the Contractor’s personnel, technical
+    assistance, and interface.
 
 ### 3.7.3 Key Personnel Changes
 
@@ -645,13 +645,13 @@ Personnel assigned to the project), the Contractor shall promptly notify
 the CO, COR, and the GSA TTS Product Owner and provide, at a minimum,
 the following information for Government approval:
 
-  - > A detailed explanation of the circumstances necessitating the
-    > change in personnel;
+  - A detailed explanation of the circumstances necessitating the
+    change in personnel;
 
-  - > A resume for all employees being removed from and added to the
-    > project team;
+  - A resume for all employees being removed from and added to the
+    project team;
 
-  - > A revised copy of the Staffing Plan;
+  - A revised copy of the Staffing Plan;
 
 As determined by the CO, all proposed substitutes/additions must have
 qualifications that meet or exceed the qualifications of the person to
@@ -708,17 +708,17 @@ is not obligated to pay for travel taken by the Contractor without
 proper authorization. The Contractor shall submit an email to the CO,
 COR, and GSA TTS Product Owner and include the following information:
 
-  - > Traveler(s) Name(s);
+  - Traveler(s) Name(s);
 
-  - > Purpose of travel;
+  - Purpose of travel;
 
-  - > Task Order Number;
+  - Task Order Number;
 
-  - > Destination(s), origin, departure date, return date, and number of
-    > days for each traveler; and
+  - Destination(s), origin, departure date, return date, and number of
+    days for each traveler; and
 
-  - > Travel estimates, including airfare, lodging, rental car, per
-    > diem, mileage, and any reimbursable items (metro, parking, etc.)
+  - Travel estimates, including airfare, lodging, rental car, per
+    diem, mileage, and any reimbursable items (metro, parking, etc.)
 
 Travel will be billed separately and at a reimbursable, Not-To-Exceed
 (NTE) amount. If additional funds are required, the Contractor must seek
@@ -767,11 +767,11 @@ final invoice.
 The Contractor will be provided with the following information when the
 Task Order has been awarded:
 
-  - > Contract/Task Order Number
+  - Contract/Task Order Number
 
-  - > CLIN number and title
+  - CLIN number and title
 
-  - > The Accounting Number associated with the task order
+  - The Accounting Number associated with the task order
 
 All of this information, along with the Period of Performance covered by
 the invoice, must be included on each invoice in addition to the
@@ -805,15 +805,15 @@ that, upon contract expiration, a successor, either the Government or
 another contractor, may continue them. Up to eight (8) weeks before the
 end of the period of performance, the Contractor agrees to:
 
-  - > Document and provide support for transition of services to another
-    > environment
+  - Document and provide support for transition of services to another
+    environment
 
-  - > Provide sufficient experienced personnel during the phase-in,
-    > phase-out period to ensure that the services called for by this
-    > contract are maintained at the required level of proficiency.
+  - Provide sufficient experienced personnel during the phase-in,
+    phase-out period to ensure that the services called for by this
+    contract are maintained at the required level of proficiency.
 
-  - > Exercise its best efforts and cooperation to effect an orderly and
-    > efficient transition to a successor.
+  - Exercise its best efforts and cooperation to effect an orderly and
+    efficient transition to a successor.
 
 # 5.0 Terms and Conditions
 
@@ -848,17 +848,17 @@ performed under this Task Order be committed to the public domain.
 Further, TTS intends to commit the following items, to the public
 domain, at a minimum:
 
-  - > All data, documents, graphics and code created under this task
-    > order including but not limited to, plans, reports, schedules,
-    > schemas, metadata, architecture designs, and the like;
+  - All data, documents, graphics and code created under this task
+    order including but not limited to, plans, reports, schedules,
+    schemas, metadata, architecture designs, and the like;
 
-  - > Any and all new open source software created by the Contractor and
-    > forks or branches of current open source software where the
-    > Contractor has made a modification; and,
+  - Any and all new open source software created by the Contractor and
+    forks or branches of current open source software where the
+    Contractor has made a modification; and,
 
-  - > Any and all new tooling, scripting configuration management,
-    > infrastructure as code, or any other final changes or edits to
-    > successfully deploy or operate the software.
+  - Any and all new tooling, scripting configuration management,
+    infrastructure as code, or any other final changes or edits to
+    successfully deploy or operate the software.
 
 The Contractor shall use open source technologies wherever possible, in
 support of the [<span class="underline">18F Source Code
