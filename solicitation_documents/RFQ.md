@@ -219,7 +219,7 @@ Solicitation Attachments
 
   - > Attachment 1 - [<span class="underline">Quality Assurance
     > Surveillance Plan
-    > (QASP)</span>](https://docs.google.com/document/d/10GkgqE-gipcglojilALg4OYQh7Awz8Fb2NXnyMnrTZg/edit)
+    > (QASP)</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/QASP.md)
 
   - > Attachment 2 - [<span class="underline">RFQ Response Form - GSA
     > TTS Data.gov Multi-Tenant CKAN Development
@@ -227,7 +227,7 @@ Solicitation Attachments
 
   - > Attachment 3 - [<span class="underline">RFQ Pricing Form -
     > Data.gov Multi-Tenant CKAN Development
-    > Support</span>](https://docs.google.com/spreadsheets/d/1AcOceyGtzoRHgFQaWkmjapcyEMzly1BV7qlL1455ESE/edit#gid=443638505)
+    > Support</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/RFQ%20Pricing%20Form.xlsx)
 
 # 1.0 Background
 
