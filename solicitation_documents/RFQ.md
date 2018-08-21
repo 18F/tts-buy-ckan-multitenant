@@ -217,9 +217,9 @@ Multi-Tenant CKAN Development Support.
 
 Solicitation Attachments
 
-  - > Attachment 1 - [<span class="underline">Quality Assurance
-    > Surveillance Plan
-    > (QASP)</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/QASP.md)
+  - Attachment 1 - [<span class="underline">Quality Assurance
+    Surveillance Plan
+    (QASP)</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/QASP.md)
 
   - > Attachment 2 - [<span class="underline">RFQ Response Form - GSA
     > TTS Data.gov Multi-Tenant CKAN Development
