@@ -33,23 +33,23 @@ Technology Professional, Programming Services Sub-Category
 
 [<span class="underline">2.0 Requirements</span>](#requirements)
 
-> [<span class="underline">2.1 Tasks</span>](#tasks)
->
-> [<span class="underline">Base Period:</span>](#base-period)
->
-> [<span class="underline">Option Periods:</span>](#option-periods)
->
-> [<span class="underline">Optional Tasks:</span>](#optional-tasks)
->
-> [<span class="underline">2.2 Deliverables</span>](#deliverables)
->
-> [<span class="underline">2.2.1 Place of
-> Delivery</span>](#place-of-delivery)
->
-> [<span class="underline">2.2.2 Inspection</span>](#inspection)
->
-> [<span class="underline">2.2.3 Basis of
-> Acceptance</span>](#basis-of-acceptance)
+[<span class="underline">2.1 Tasks</span>](#tasks)
+
+[<span class="underline">Base Period:</span>](#base-period)
+
+[<span class="underline">Option Periods:</span>](#option-periods)
+
+[<span class="underline">Optional Tasks:</span>](#optional-tasks)
+
+[<span class="underline">2.2 Deliverables</span>](#deliverables)
+
+[<span class="underline">2.2.1 Place of
+Delivery</span>](#place-of-delivery)
+
+[<span class="underline">2.2.2 Inspection</span>](#inspection)
+
+[<span class="underline">2.2.3 Basis of
+Acceptance</span>](#basis-of-acceptance)
 
 [<span class="underline">3.0 Task Order
 Details</span>](#task-order-details)
