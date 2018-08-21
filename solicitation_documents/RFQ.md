@@ -54,155 +54,155 @@ Acceptance</span>](#basis-of-acceptance)
 [<span class="underline">3.0 Task Order
 Details</span>](#task-order-details)
 
-> [<span class="underline">3.1 Type of
-> Contract</span>](#type-of-contract)
->
-> [<span class="underline">3.2 Period of
-> Performance</span>](#period-of-performance)
->
-> [<span class="underline">3.3 Place of
-> Performance</span>](#place-of-performance)
->
-> [<span class="underline">3.4 Government Furnished
-> Property/Equipment</span>](#government-furnished-propertyequipment)
->
-> [<span class="underline">3.5 Government Furnished
-> Information</span>](#government-furnished-information)
->
-> [<span class="underline">3.6 Government Points of
-> Contact</span>](#government-points-of-contact)
->
-> [<span class="underline">3.7 Contractor
-> Personnel</span>](#contractor-personnel)
->
-> [<span class="underline">3.7.1 Required
-> Knowledge</span>](#required-knowledge)
->
-> [<span class="underline">3.7.2 Key Personnel</span>](#key-personnel)
->
-> [<span class="underline">3.7.3 Key Personnel
-> Changes</span>](#key-personnel-changes)
->
-> [<span class="underline">3.7.4 Employee
-> Identification</span>](#employee-identification)
->
-> [<span class="underline">3.7.5 Employee
-> Conduct</span>](#employee-conduct)
+[<span class="underline">3.1 Type of
+Contract</span>](#type-of-contract)
+
+[<span class="underline">3.2 Period of
+Performance</span>](#period-of-performance)
+
+[<span class="underline">3.3 Place of
+Performance</span>](#place-of-performance)
+
+[<span class="underline">3.4 Government Furnished
+Property/Equipment</span>](#government-furnished-propertyequipment)
+
+[<span class="underline">3.5 Government Furnished
+Information</span>](#government-furnished-information)
+
+[<span class="underline">3.6 Government Points of
+Contact</span>](#government-points-of-contact)
+
+[<span class="underline">3.7 Contractor
+Personnel</span>](#contractor-personnel)
+
+[<span class="underline">3.7.1 Required
+Knowledge</span>](#required-knowledge)
+
+[<span class="underline">3.7.2 Key Personnel</span>](#key-personnel)
+
+[<span class="underline">3.7.3 Key Personnel
+Changes</span>](#key-personnel-changes)
+
+[<span class="underline">3.7.4 Employee
+Identification</span>](#employee-identification)
+
+[<span class="underline">3.7.5 Employee
+Conduct</span>](#employee-conduct)
 
 [<span class="underline">4.0 Task Order
 Administration</span>](#task-order-administration)
 
-> [<span class="underline">4.1 Post Award Orientation
-> Conference</span>](#post-award-orientation-conference)
->
-> [<span class="underline">4.2 Travel</span>](#travel)
->
-> [<span class="underline">4.3 Quality
-> Assurance</span>](#quality-assurance)
->
-> [<span class="underline">4.4 Contractor
-> Performance</span>](#contractor-performance)
->
-> [<span class="underline">4.5 Invoicing</span>](#invoicing)
->
-> [<span class="underline">4.5.1 Content of
-> Invoice</span>](#content-of-invoice)
->
-> [<span class="underline">4.5.2 Invoice
-> Submission</span>](#invoice-submission)
->
-> [<span class="underline">4.6 Early
-> Termination</span>](#early-termination)
->
-> [<span class="underline">4.7 Transition
-> Activities</span>](#transition-activities)
+[<span class="underline">4.1 Post Award Orientation
+Conference</span>](#post-award-orientation-conference)
+
+[<span class="underline">4.2 Travel</span>](#travel)
+
+[<span class="underline">4.3 Quality
+Assurance</span>](#quality-assurance)
+
+[<span class="underline">4.4 Contractor
+Performance</span>](#contractor-performance)
+
+[<span class="underline">4.5 Invoicing</span>](#invoicing)
+
+[<span class="underline">4.5.1 Content of
+Invoice</span>](#content-of-invoice)
+
+[<span class="underline">4.5.2 Invoice
+Submission</span>](#invoice-submission)
+
+[<span class="underline">4.6 Early
+Termination</span>](#early-termination)
+
+[<span class="underline">4.7 Transition
+Activities</span>](#transition-activities)
 
 [<span class="underline">5.0 Terms and
 Conditions</span>](#terms-and-conditions)
 
-> [<span class="underline">5.1 TTS Transparency
-> Policy</span>](#tts-transparency-policy)
->
-> [<span class="underline">5.2 Data Rights and Ownership of
-> Deliverables</span>](#data-rights-and-ownership-of-deliverables)
->
-> [<span class="underline">5.3 Confidentiality and
-> Nondisclosure</span>](#confidentiality-and-nondisclosure)
->
-> [<span class="underline">5.4 Sensitive Information
-> Storage</span>](#sensitive-information-storage)
->
-> [<span class="underline">5.5 Protection of
-> Information</span>](#protection-of-information)
->
-> [<span class="underline">5.6 Section 508
-> Compliance</span>](#section-508-compliance)
+[<span class="underline">5.1 TTS Transparency
+Policy</span>](#tts-transparency-policy)
+
+[<span class="underline">5.2 Data Rights and Ownership of
+Deliverables</span>](#data-rights-and-ownership-of-deliverables)
+
+[<span class="underline">5.3 Confidentiality and
+Nondisclosure</span>](#confidentiality-and-nondisclosure)
+
+[<span class="underline">5.4 Sensitive Information
+Storage</span>](#sensitive-information-storage)
+
+[<span class="underline">5.5 Protection of
+Information</span>](#protection-of-information)
+
+[<span class="underline">5.6 Section 508
+Compliance</span>](#section-508-compliance)
 
 [<span class="underline">6.0 Clauses and
 Provisions</span>](#clauses-and-provisions)
 
-> [<span class="underline">6.1 Clauses</span>](#clauses)
->
-> [<span class="underline">6.2 Provisions</span>](#provisions)
+[<span class="underline">6.1 Clauses</span>](#clauses)
+
+[<span class="underline">6.2 Provisions</span>](#provisions)
 
 [<span class="underline">7.0 Instructions</span>](#instructions)
 
-> [<span class="underline">7.1 Quote
-> Instructions</span>](#quote-instructions)
->
-> [<span class="underline">Technical
-> Submittal:</span>](#technical-submittal)
->
-> [<span class="underline">Price Submittal:</span>](#price-submittal)
->
-> [<span class="underline">7.2 Quotes</span>](#quotes)
->
-> [<span class="underline">Factor 1: Technical
-> Approach</span>](#factor-1-technical-approach)
->
-> [<span class="underline">Factor 2: Staffing
-> Plan</span>](#factor-2-staffing-plan)
->
-> [<span class="underline">Factor 3: Similar
-> Experience</span>](#factor-3-similar-experience)
->
-> [<span class="underline">Factor 4: Price</span>](#factor-4-price)
->
-> [<span class="underline">Potential Conflict of Interest
-> Statement</span>](#potential-conflict-of-interest-statement)
->
-> [<span class="underline">7.3 Questions</span>](#questions)
+[<span class="underline">7.1 Quote
+Instructions</span>](#quote-instructions)
+
+[<span class="underline">Technical
+Submittal:</span>](#technical-submittal)
+
+[<span class="underline">Price Submittal:</span>](#price-submittal)
+
+[<span class="underline">7.2 Quotes</span>](#quotes)
+
+[<span class="underline">Factor 1: Technical
+Approach</span>](#factor-1-technical-approach)
+
+[<span class="underline">Factor 2: Staffing
+Plan</span>](#factor-2-staffing-plan)
+
+[<span class="underline">Factor 3: Similar
+Experience</span>](#factor-3-similar-experience)
+
+[<span class="underline">Factor 4: Price</span>](#factor-4-price)
+
+[<span class="underline">Potential Conflict of Interest
+Statement</span>](#potential-conflict-of-interest-statement)
+
+[<span class="underline">7.3 Questions</span>](#questions)
 
 [<span class="underline">8.0 Evaluation</span>](#evaluation)
 
-> [<span class="underline">8.1 Evaluation Criteria and Basis of
-> Award</span>](#evaluation-criteria-and-basis-of-award)
->
-> [<span class="underline">8.2 Evaluation
-> Process</span>](#evaluation-process)
->
-> [<span class="underline">8.3 Evaluation
-> Factors</span>](#evaluation-factors)
->
-> [<span class="underline">Factor 1: Technical
-> Approach</span>](#factor-1-technical-approach-1)
->
-> [<span class="underline">Factor 2: Staffing
-> Plan</span>](#factor-2-staffing-plan-1)
->
-> [<span class="underline">Factor 3: Similar
-> Experience</span>](#factor-3-similar-experience-1)
->
-> [<span class="underline">Factor 4: Price</span>](#factor-4-price-1)
->
-> [<span class="underline">8.4 Oral Interview
-> Process</span>](#oral-interview-process)
->
-> [<span class="underline">Schedule and Agenda for oral
-> interviews</span>](#schedule-and-agenda-for-oral-interviews)
->
-> [<span class="underline">Oral Interview
-> Rules</span>](#oral-interview-rules)
+[<span class="underline">8.1 Evaluation Criteria and Basis of
+Award</span>](#evaluation-criteria-and-basis-of-award)
+
+[<span class="underline">8.2 Evaluation
+Process</span>](#evaluation-process)
+
+[<span class="underline">8.3 Evaluation
+Factors</span>](#evaluation-factors)
+
+[<span class="underline">Factor 1: Technical
+Approach</span>](#factor-1-technical-approach-1)
+
+[<span class="underline">Factor 2: Staffing
+Plan</span>](#factor-2-staffing-plan-1)
+
+[<span class="underline">Factor 3: Similar
+Experience</span>](#factor-3-similar-experience-1)
+
+[<span class="underline">Factor 4: Price</span>](#factor-4-price-1)
+
+[<span class="underline">8.4 Oral Interview
+Process</span>](#oral-interview-process)
+
+[<span class="underline">Schedule and Agenda for oral
+interviews</span>](#schedule-and-agenda-for-oral-interviews)
+
+[<span class="underline">Oral Interview
+Rules</span>](#oral-interview-rules)
 
 # Preamble
 
