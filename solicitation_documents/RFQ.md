@@ -33,176 +33,176 @@ Technology Professional, Programming Services Sub-Category
 
 [<span class="underline">2.0 Requirements</span>](#requirements)
 
-> [<span class="underline">2.1 Tasks</span>](#tasks)
->
-> [<span class="underline">Base Period:</span>](#base-period)
->
-> [<span class="underline">Option Periods:</span>](#option-periods)
->
-> [<span class="underline">Optional Tasks:</span>](#optional-tasks)
->
-> [<span class="underline">2.2 Deliverables</span>](#deliverables)
->
-> [<span class="underline">2.2.1 Place of
-> Delivery</span>](#place-of-delivery)
->
-> [<span class="underline">2.2.2 Inspection</span>](#inspection)
->
-> [<span class="underline">2.2.3 Basis of
-> Acceptance</span>](#basis-of-acceptance)
+[<span class="underline">2.1 Tasks</span>](#tasks)
+
+[<span class="underline">Base Period:</span>](#base-period)
+
+[<span class="underline">Option Periods:</span>](#option-periods)
+
+[<span class="underline">Optional Tasks:</span>](#optional-tasks)
+
+[<span class="underline">2.2 Deliverables</span>](#deliverables)
+
+[<span class="underline">2.2.1 Place of
+Delivery</span>](#place-of-delivery)
+
+[<span class="underline">2.2.2 Inspection</span>](#inspection)
+
+[<span class="underline">2.2.3 Basis of
+Acceptance</span>](#basis-of-acceptance)
 
 [<span class="underline">3.0 Task Order
 Details</span>](#task-order-details)
 
-> [<span class="underline">3.1 Type of
-> Contract</span>](#type-of-contract)
->
-> [<span class="underline">3.2 Period of
-> Performance</span>](#period-of-performance)
->
-> [<span class="underline">3.3 Place of
-> Performance</span>](#place-of-performance)
->
-> [<span class="underline">3.4 Government Furnished
-> Property/Equipment</span>](#government-furnished-propertyequipment)
->
-> [<span class="underline">3.5 Government Furnished
-> Information</span>](#government-furnished-information)
->
-> [<span class="underline">3.6 Government Points of
-> Contact</span>](#government-points-of-contact)
->
-> [<span class="underline">3.7 Contractor
-> Personnel</span>](#contractor-personnel)
->
-> [<span class="underline">3.7.1 Required
-> Knowledge</span>](#required-knowledge)
->
-> [<span class="underline">3.7.2 Key Personnel</span>](#key-personnel)
->
-> [<span class="underline">3.7.3 Key Personnel
-> Changes</span>](#key-personnel-changes)
->
-> [<span class="underline">3.7.4 Employee
-> Identification</span>](#employee-identification)
->
-> [<span class="underline">3.7.5 Employee
-> Conduct</span>](#employee-conduct)
+[<span class="underline">3.1 Type of
+Contract</span>](#type-of-contract)
+
+[<span class="underline">3.2 Period of
+Performance</span>](#period-of-performance)
+
+[<span class="underline">3.3 Place of
+Performance</span>](#place-of-performance)
+
+[<span class="underline">3.4 Government Furnished
+Property/Equipment</span>](#government-furnished-propertyequipment)
+
+[<span class="underline">3.5 Government Furnished
+Information</span>](#government-furnished-information)
+
+[<span class="underline">3.6 Government Points of
+Contact</span>](#government-points-of-contact)
+
+[<span class="underline">3.7 Contractor
+Personnel</span>](#contractor-personnel)
+
+[<span class="underline">3.7.1 Required
+Knowledge</span>](#required-knowledge)
+
+[<span class="underline">3.7.2 Key Personnel</span>](#key-personnel)
+
+[<span class="underline">3.7.3 Key Personnel
+Changes</span>](#key-personnel-changes)
+
+[<span class="underline">3.7.4 Employee
+Identification</span>](#employee-identification)
+
+[<span class="underline">3.7.5 Employee
+Conduct</span>](#employee-conduct)
 
 [<span class="underline">4.0 Task Order
 Administration</span>](#task-order-administration)
 
-> [<span class="underline">4.1 Post Award Orientation
-> Conference</span>](#post-award-orientation-conference)
->
-> [<span class="underline">4.2 Travel</span>](#travel)
->
-> [<span class="underline">4.3 Quality
-> Assurance</span>](#quality-assurance)
->
-> [<span class="underline">4.4 Contractor
-> Performance</span>](#contractor-performance)
->
-> [<span class="underline">4.5 Invoicing</span>](#invoicing)
->
-> [<span class="underline">4.5.1 Content of
-> Invoice</span>](#content-of-invoice)
->
-> [<span class="underline">4.5.2 Invoice
-> Submission</span>](#invoice-submission)
->
-> [<span class="underline">4.6 Early
-> Termination</span>](#early-termination)
->
-> [<span class="underline">4.7 Transition
-> Activities</span>](#transition-activities)
+[<span class="underline">4.1 Post Award Orientation
+Conference</span>](#post-award-orientation-conference)
+
+[<span class="underline">4.2 Travel</span>](#travel)
+
+[<span class="underline">4.3 Quality
+Assurance</span>](#quality-assurance)
+
+[<span class="underline">4.4 Contractor
+Performance</span>](#contractor-performance)
+
+[<span class="underline">4.5 Invoicing</span>](#invoicing)
+
+[<span class="underline">4.5.1 Content of
+Invoice</span>](#content-of-invoice)
+
+[<span class="underline">4.5.2 Invoice
+Submission</span>](#invoice-submission)
+
+[<span class="underline">4.6 Early
+Termination</span>](#early-termination)
+
+[<span class="underline">4.7 Transition
+Activities</span>](#transition-activities)
 
 [<span class="underline">5.0 Terms and
 Conditions</span>](#terms-and-conditions)
 
-> [<span class="underline">5.1 TTS Transparency
-> Policy</span>](#tts-transparency-policy)
->
-> [<span class="underline">5.2 Data Rights and Ownership of
-> Deliverables</span>](#data-rights-and-ownership-of-deliverables)
->
-> [<span class="underline">5.3 Confidentiality and
-> Nondisclosure</span>](#confidentiality-and-nondisclosure)
->
-> [<span class="underline">5.4 Sensitive Information
-> Storage</span>](#sensitive-information-storage)
->
-> [<span class="underline">5.5 Protection of
-> Information</span>](#protection-of-information)
->
-> [<span class="underline">5.6 Section 508
-> Compliance</span>](#section-508-compliance)
+[<span class="underline">5.1 TTS Transparency
+Policy</span>](#tts-transparency-policy)
+
+[<span class="underline">5.2 Data Rights and Ownership of
+Deliverables</span>](#data-rights-and-ownership-of-deliverables)
+
+[<span class="underline">5.3 Confidentiality and
+Nondisclosure</span>](#confidentiality-and-nondisclosure)
+
+[<span class="underline">5.4 Sensitive Information
+Storage</span>](#sensitive-information-storage)
+
+[<span class="underline">5.5 Protection of
+Information</span>](#protection-of-information)
+
+[<span class="underline">5.6 Section 508
+Compliance</span>](#section-508-compliance)
 
 [<span class="underline">6.0 Clauses and
 Provisions</span>](#clauses-and-provisions)
 
-> [<span class="underline">6.1 Clauses</span>](#clauses)
->
-> [<span class="underline">6.2 Provisions</span>](#provisions)
+[<span class="underline">6.1 Clauses</span>](#clauses)
+
+[<span class="underline">6.2 Provisions</span>](#provisions)
 
 [<span class="underline">7.0 Instructions</span>](#instructions)
 
-> [<span class="underline">7.1 Quote
-> Instructions</span>](#quote-instructions)
->
-> [<span class="underline">Technical
-> Submittal:</span>](#technical-submittal)
->
-> [<span class="underline">Price Submittal:</span>](#price-submittal)
->
-> [<span class="underline">7.2 Quotes</span>](#quotes)
->
-> [<span class="underline">Factor 1: Technical
-> Approach</span>](#factor-1-technical-approach)
->
-> [<span class="underline">Factor 2: Staffing
-> Plan</span>](#factor-2-staffing-plan)
->
-> [<span class="underline">Factor 3: Similar
-> Experience</span>](#factor-3-similar-experience)
->
-> [<span class="underline">Factor 4: Price</span>](#factor-4-price)
->
-> [<span class="underline">Potential Conflict of Interest
-> Statement</span>](#potential-conflict-of-interest-statement)
->
-> [<span class="underline">7.3 Questions</span>](#questions)
+[<span class="underline">7.1 Quote
+Instructions</span>](#quote-instructions)
+
+[<span class="underline">Technical
+Submittal:</span>](#technical-submittal)
+
+[<span class="underline">Price Submittal:</span>](#price-submittal)
+
+[<span class="underline">7.2 Quotes</span>](#quotes)
+
+[<span class="underline">Factor 1: Technical
+Approach</span>](#factor-1-technical-approach)
+
+[<span class="underline">Factor 2: Staffing
+Plan</span>](#factor-2-staffing-plan)
+
+[<span class="underline">Factor 3: Similar
+Experience</span>](#factor-3-similar-experience)
+
+[<span class="underline">Factor 4: Price</span>](#factor-4-price)
+
+[<span class="underline">Potential Conflict of Interest
+Statement</span>](#potential-conflict-of-interest-statement)
+
+[<span class="underline">7.3 Questions</span>](#questions)
 
 [<span class="underline">8.0 Evaluation</span>](#evaluation)
 
-> [<span class="underline">8.1 Evaluation Criteria and Basis of
-> Award</span>](#evaluation-criteria-and-basis-of-award)
->
-> [<span class="underline">8.2 Evaluation
-> Process</span>](#evaluation-process)
->
-> [<span class="underline">8.3 Evaluation
-> Factors</span>](#evaluation-factors)
->
-> [<span class="underline">Factor 1: Technical
-> Approach</span>](#factor-1-technical-approach-1)
->
-> [<span class="underline">Factor 2: Staffing
-> Plan</span>](#factor-2-staffing-plan-1)
->
-> [<span class="underline">Factor 3: Similar
-> Experience</span>](#factor-3-similar-experience-1)
->
-> [<span class="underline">Factor 4: Price</span>](#factor-4-price-1)
->
-> [<span class="underline">8.4 Oral Interview
-> Process</span>](#oral-interview-process)
->
-> [<span class="underline">Schedule and Agenda for oral
-> interviews</span>](#schedule-and-agenda-for-oral-interviews)
->
-> [<span class="underline">Oral Interview
-> Rules</span>](#oral-interview-rules)
+[<span class="underline">8.1 Evaluation Criteria and Basis of
+Award</span>](#evaluation-criteria-and-basis-of-award)
+
+[<span class="underline">8.2 Evaluation
+Process</span>](#evaluation-process)
+
+[<span class="underline">8.3 Evaluation
+Factors</span>](#evaluation-factors)
+
+[<span class="underline">Factor 1: Technical
+Approach</span>](#factor-1-technical-approach-1)
+
+[<span class="underline">Factor 2: Staffing
+Plan</span>](#factor-2-staffing-plan-1)
+
+[<span class="underline">Factor 3: Similar
+Experience</span>](#factor-3-similar-experience-1)
+
+[<span class="underline">Factor 4: Price</span>](#factor-4-price-1)
+
+[<span class="underline">8.4 Oral Interview
+Process</span>](#oral-interview-process)
+
+[<span class="underline">Schedule and Agenda for oral
+interviews</span>](#schedule-and-agenda-for-oral-interviews)
+
+[<span class="underline">Oral Interview
+Rules</span>](#oral-interview-rules)
 
 # Preamble
 
@@ -221,13 +221,13 @@ Solicitation Attachments
     Surveillance Plan
     (QASP)</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/QASP.md)
 
-  - > Attachment 2 - [<span class="underline">RFQ Response Form - GSA
-    > TTS Data.gov Multi-Tenant CKAN Development
-    > Support</span>](https://docs.google.com/forms/d/1gr9gHzRJZ2LH6UrRzT4g40npWRi-I3ZYsLi5fv_h5RE/edit)
+  - Attachment 2 - [<span class="underline">RFQ Response Form - GSA
+    TTS Data.gov Multi-Tenant CKAN Development
+    Support</span>](https://docs.google.com/forms/d/1gr9gHzRJZ2LH6UrRzT4g40npWRi-I3ZYsLi5fv_h5RE/edit)
 
-  - > Attachment 3 - [<span class="underline">RFQ Pricing Form -
-    > Data.gov Multi-Tenant CKAN Development
-    > Support</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/RFQ%20Pricing%20Form.xlsx)
+  - Attachment 3 - [<span class="underline">RFQ Pricing Form -
+    Data.gov Multi-Tenant CKAN Development
+    Support</span>](https://github.com/18F/tts-buy-ckan-multitenant/blob/master/solicitation_documents/RFQ%20Pricing%20Form.xlsx)
 
 # 1.0 Background
 
@@ -551,13 +551,13 @@ upon request after award.
 This acquisition will be administered by the following individuals, who
 will also monitor the Contractor’s performance:
 
-1.  > GSA Contracting Officer (CO): Jennifer Calik,
-    > [<span class="underline">jennifer.calik@gsa.gov</span>](mailto:jennifer.calik@gsa.gov)
+1.  GSA Contracting Officer (CO): Jennifer Calik,
+    [<span class="underline">jennifer.calik@gsa.gov</span>](mailto:jennifer.calik@gsa.gov)
 
-2.  > GSA Contracting Officer’s Representative (COR): Will be provided
-    > at time of award
+2.  GSA Contracting Officer’s Representative (COR): Will be provided
+    at time of award
 
-3.  > GSA TTS Product Owner: Will be provided at time of award
+3.  GSA TTS Product Owner: Will be provided at time of award
 
 ## 3.7 Contractor Personnel
 
@@ -576,35 +576,35 @@ Data.gov’s goals and objectives.
 
 Areas of expertise required:
 
-  - > CKAN version 2.6 or later;
+  - CKAN version 2.6 or later;
 
-  - > Implementation of CKAN extensions (e.g. ckanext-harvest and CKAN
-    > DataStore);
+  - Implementation of CKAN extensions (e.g. ckanext-harvest and CKAN
+    DataStore);
 
-  - > Development of custom CKAN extensions;
+  - Development of custom CKAN extensions;
 
-  - > git-backed version control; and
+  - git-backed version control; and
 
-  - > PostgreSQL
+  - PostgreSQL
 
 Additionally, a team assigned to perform this work is expected to have
 experience with:
 
-  - > Agile development practices;
+  - Agile development practices;
 
-  - > Open-source development and version control;
+  - Open-source development and version control;
 
-  - > Writing and using APIs;
+  - Writing and using APIs;
 
-  - > Test-driven development;
+  - Test-driven development;
 
-  - > Information Architecture, including system design;
+  - Information Architecture, including system design;
 
-  - > DevOps practices, including monitoring;
+  - DevOps practices, including monitoring;
 
-  - > Cloud based hosting environments and deployments; and
+  - Cloud based hosting environments and deployments; and
 
-  - > Building and testing public-facing sites and tools.
+  - Building and testing public-facing sites and tools.
 
 The Contractor shall also provide people who are comfortable working
 with a geographically distributed team.
@@ -621,13 +621,13 @@ and is at the sole discretion of the Contractor.
 At a minimum, the Contractor shall identify one member of the Key
 Personnel that:
 
-  - > Has a full understanding of the technical approach discussed in
-    > the Oral Interviews and delivered by the Contractor after award;
+  - Has a full understanding of the technical approach discussed in
+    the Oral Interviews and delivered by the Contractor after award;
 
-  - > Will be a direct liaison to the CO, COR, and the GSA TTS Product
-    > Owner. In this capacity, this individual shall be responsible for
-    > the supervision of the Contractor’s personnel, technical
-    > assistance, and interface.
+  - Will be a direct liaison to the CO, COR, and the GSA TTS Product
+    Owner. In this capacity, this individual shall be responsible for
+    the supervision of the Contractor’s personnel, technical
+    assistance, and interface.
 
 ### 3.7.3 Key Personnel Changes
 
@@ -645,13 +645,13 @@ Personnel assigned to the project), the Contractor shall promptly notify
 the CO, COR, and the GSA TTS Product Owner and provide, at a minimum,
 the following information for Government approval:
 
-  - > A detailed explanation of the circumstances necessitating the
-    > change in personnel;
+  - A detailed explanation of the circumstances necessitating the
+    change in personnel;
 
-  - > A resume for all employees being removed from and added to the
-    > project team;
+  - A resume for all employees being removed from and added to the
+    project team;
 
-  - > A revised copy of the Staffing Plan;
+  - A revised copy of the Staffing Plan;
 
 As determined by the CO, all proposed substitutes/additions must have
 qualifications that meet or exceed the qualifications of the person to
@@ -708,17 +708,17 @@ is not obligated to pay for travel taken by the Contractor without
 proper authorization. The Contractor shall submit an email to the CO,
 COR, and GSA TTS Product Owner and include the following information:
 
-  - > Traveler(s) Name(s);
+  - Traveler(s) Name(s);
 
-  - > Purpose of travel;
+  - Purpose of travel;
 
-  - > Task Order Number;
+  - Task Order Number;
 
-  - > Destination(s), origin, departure date, return date, and number of
-    > days for each traveler; and
+  - Destination(s), origin, departure date, return date, and number of
+    days for each traveler; and
 
-  - > Travel estimates, including airfare, lodging, rental car, per
-    > diem, mileage, and any reimbursable items (metro, parking, etc.)
+  - Travel estimates, including airfare, lodging, rental car, per
+    diem, mileage, and any reimbursable items (metro, parking, etc.)
 
 Travel will be billed separately and at a reimbursable, Not-To-Exceed
 (NTE) amount. If additional funds are required, the Contractor must seek
@@ -767,11 +767,11 @@ final invoice.
 The Contractor will be provided with the following information when the
 Task Order has been awarded:
 
-  - > Contract/Task Order Number
+  - Contract/Task Order Number
 
-  - > CLIN number and title
+  - CLIN number and title
 
-  - > The Accounting Number associated with the task order
+  - The Accounting Number associated with the task order
 
 All of this information, along with the Period of Performance covered by
 the invoice, must be included on each invoice in addition to the
@@ -805,15 +805,15 @@ that, upon contract expiration, a successor, either the Government or
 another contractor, may continue them. Up to eight (8) weeks before the
 end of the period of performance, the Contractor agrees to:
 
-  - > Document and provide support for transition of services to another
-    > environment
+  - Document and provide support for transition of services to another
+    environment
 
-  - > Provide sufficient experienced personnel during the phase-in,
-    > phase-out period to ensure that the services called for by this
-    > contract are maintained at the required level of proficiency.
+  - Provide sufficient experienced personnel during the phase-in,
+    phase-out period to ensure that the services called for by this
+    contract are maintained at the required level of proficiency.
 
-  - > Exercise its best efforts and cooperation to effect an orderly and
-    > efficient transition to a successor.
+  - Exercise its best efforts and cooperation to effect an orderly and
+    efficient transition to a successor.
 
 # 5.0 Terms and Conditions
 
@@ -848,17 +848,17 @@ performed under this Task Order be committed to the public domain.
 Further, TTS intends to commit the following items, to the public
 domain, at a minimum:
 
-  - > All data, documents, graphics and code created under this task
-    > order including but not limited to, plans, reports, schedules,
-    > schemas, metadata, architecture designs, and the like;
+  - All data, documents, graphics and code created under this task
+    order including but not limited to, plans, reports, schedules,
+    schemas, metadata, architecture designs, and the like;
 
-  - > Any and all new open source software created by the Contractor and
-    > forks or branches of current open source software where the
-    > Contractor has made a modification; and,
+  - Any and all new open source software created by the Contractor and
+    forks or branches of current open source software where the
+    Contractor has made a modification; and,
 
-  - > Any and all new tooling, scripting configuration management,
-    > infrastructure as code, or any other final changes or edits to
-    > successfully deploy or operate the software.
+  - Any and all new tooling, scripting configuration management,
+    infrastructure as code, or any other final changes or edits to
+    successfully deploy or operate the software.
 
 The Contractor shall use open source technologies wherever possible, in
 support of the [<span class="underline">18F Source Code
