@@ -138,6 +138,9 @@ Information</span>](#protection-of-information)
 [<span class="underline">5.6 Section 508
 Compliance</span>](#section-508-compliance)
 
+[<span class="underline">5.7 Security Clearance and GSA Access Card
+</span>](#Security-Clearance-and-GSA-Access-Card)
+
 [<span class="underline">6.0 Clauses and
 Provisions</span>](#clauses-and-provisions)
 
@@ -950,6 +953,14 @@ public seeking information or services from a Federal agency, have
 access to and use of information and data that is comparable to that
 provided to the public who are not individuals with disabilities, unless
 an undue burden would be imposed on the agency.
+
+## 5.7 Security Clearance and GSA Access Card
+
+In accordance with Homeland Security Presidential Directive 12 (HSPD-12) and GSA regulations, contractor employees who required access to GSA facilities and IT systems must receive, at the minimum, a successful determination from the security clearance process for a National Agency Check with written Inquiries (NACI) to receive prior to issuance of a GSA Access Card (Access Card). Successful results from the FBI National Criminal History Check (i.e., fingerprint check) portion must be received before an Access Card can be issued. If contractor personnel require access to GSA IT systems as a result of the Government exercising any of the Option Periods or Optional Tasks, those contractor personnel will be required to comply with these requirements. 
+ 
+The Access Card serves as the identity badge and uses smart card technology to provide reliable and secure identity verification. Contractors are required to use their Access Card along with a Personal Identification Number (PIN), to log into GSA networks.
+ 
+The Contractor shall return all badges to the government on the same day that an individual employee is terminated, and/or upon termination or completion of the task order. The Contractor shall notify the Government immediately of any lost or stolen badges. The Government assumes financial responsibility for any fees connected to the clearance process for contractor employees and the issuance and/or maintenance fees for the Access Card.
 
 # 6.0 Clauses and Provisions
 
